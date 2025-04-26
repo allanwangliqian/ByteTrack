@@ -1,5 +1,5 @@
 # TODO: Update with exact module version
-numpy
+numpy==1.26.4
 torch>=1.7
 opencv_python
 loguru
